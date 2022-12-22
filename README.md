@@ -6,3 +6,4 @@ Data source: [COVID-19](https://github.com/GoogleCloudPlatform/covid-19-open-dat
 
 ## Instructions
 - Please download data into the `./data/` folder and save figures into the `./assets/` folder
+- Save the code in corresponding folders, i.e. `direction1`, `direction2` or `direction3`
