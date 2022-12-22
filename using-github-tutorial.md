@@ -5,8 +5,7 @@ Something in the front: `<...>` represents words that should be replaced accordi
 	- generate the public key and add it to your GitHub account
 2. Generate token of github (to push your commit to github)
 	- Settings - Developer settings - Personal access tokens - Tokens (classic)
-		- ![image](assets/Snipaste_2022-12-22_19-54-20.png)
-		- ![image](assets/Snipaste_2022-12-22_19-52-38.png)
+		- ![image](assets/Snipaste_2022-12-22_19-54-20.png) ![image](assets\Snipaste_2022-12-22_20-22-16.png)
 		- ![image](assets/Snipaste_2022-12-22_19-52-04.png)
 3. Set password-less push (optional)
 	- create .git-credentials in your home directory
