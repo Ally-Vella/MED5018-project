@@ -3,7 +3,7 @@
 - time
 -
 - ### Direction 1: 疫苗 vs new cases & new deaths
-	- 郑力豪
+	- @ZhengLihao1004
 	- hospitalize 收治 上呼吸机 （候选
 - aim
 	- 疫苗对病毒抗性和感染的作用
@@ -23,7 +23,7 @@
 -
 -
 - ### Direction 2: other social factors v.s. new cases/deaths
-	- 王瑞琪
+	- @sywrq
 - aim
 	- relations
 	- candidates that may result in or be resulted from the covid-19
@@ -41,7 +41,7 @@
 - heatmap？
 -
 - ### Direction 3: clustering
-	- 魏毕
+	- @Bi Wei
 - aim
 	- all possible factors to be clustered
 	- exclude cases and deaths
@@ -51,6 +51,6 @@
 -
 -
 - ---
-- ppt 田淑云
-- 总结 github 雷华婕
+- ppt TianShuyun
+- summarize github @LEI Huajie
 -
