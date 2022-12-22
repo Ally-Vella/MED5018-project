@@ -1,0 +1,56 @@
+-
+- compare different nations?
+- time
+-
+- ### Direction 1: 疫苗 vs new cases & new deaths
+	- 郑力豪
+	- hospitalize 收治 上呼吸机 （候选
+- aim
+	- 疫苗对病毒抗性和感染的作用
+- data input
+	- vaccination
+		- [table-vaccinations.md](https://github.com/GoogleCloudPlatform/covid-19-open-data/blob/main/docs/table-vaccinations.md)
+		- [table-vaccination-access.md](https://github.com/GoogleCloudPlatform/covid-19-open-data/blob/main/docs/table-vaccination-access.md)
+		- [table-vaccination-search-insights.md](https://github.com/GoogleCloudPlatform/covid-19-open-data/blob/main/docs/table-vaccination-search-insights.md)
+	- new cases and deaths
+		- [table-epidemiology.md](https://github.com/GoogleCloudPlatform/covid-19-open-data/blob/main/docs/table-epidemiology.md)
+	-
+- analysis
+	- correlations
+	- distribution
+		- 如果有疫苗接种数量随时间的数据 -> 疫苗接种的 和 生病的
+- visualization
+-
+-
+- ### Direction 2: other social factors v.s. new cases/deaths
+	- 王瑞琪
+- aim
+	- relations
+	- candidates that may result in or be resulted from the covid-19
+- data input
+	- sex
+	- age
+	- economy -> deaths/cases
+	- health
+		- deaths 或者重症中 基础病的概率
+	-
+- analysis
+	- correlations
+- visualization
+-
+- heatmap？
+-
+- ### Direction 3: clustering
+	- 魏毕
+- aim
+	- all possible factors to be clustered
+	- exclude cases and deaths
+- data input
+- analysis
+- visualization
+-
+-
+- ---
+- ppt 田淑云
+- 总结 github 雷华婕
+-
