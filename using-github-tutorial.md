@@ -1,4 +1,4 @@
-Something in the front: `<...>` represents words that should be replaced by your private setting. E.g. my user name in the computer is 'lenovo', so my home directory is `C:\Users\lenovo\`
+Something in the front: `<...>` represents words that should be replaced according to the situation. E.g. my user name in the computer is 'lenovo', so my home directory is `C:\Users\lenovo\`
 
 1. Follow the instructions in courseware of week13
 	- download [Git](https://git-scm.com)
