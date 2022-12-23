@@ -1,1 +1,1 @@
-Data for the project
+Data gotten from https://github.com/GoogleCloudPlatform/covid-19-open-data.git
