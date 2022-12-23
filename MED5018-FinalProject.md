@@ -4,7 +4,7 @@
 -
 - ### [Direction 1: 疫苗 vs new cases & new deaths](https://github.com/Ally-Vella/MED5018-project/tree/master/code/direction1)
 	- @ZhengLihao1004
-	- hospitalize 收治 上呼吸机 （候选
+	- [hospitalize](https://github.com/GoogleCloudPlatform/covid-19-open-data/blob/main/docs/table-hospitalizations.md) 收治 上呼吸机 （候选
 - aim
 	- 疫苗对病毒抗性和感染的作用
 - data input
@@ -29,11 +29,11 @@
 	- relations
 	- candidates that may result in or be resulted from the covid-19
 - data input
-	- sex
-	- age
-	- economy -> deaths/cases
-	- 搜索指数
-	- health
+	- [sex](https://github.com/GoogleCloudPlatform/covid-19-open-data/blob/main/docs/table-by-sex.md)
+	- [age](https://github.com/GoogleCloudPlatform/covid-19-open-data/blob/main/docs/table-by-age.md)
+	- [economy](https://github.com/GoogleCloudPlatform/covid-19-open-data/blob/main/docs/table-economy.md) -> deaths/cases
+	- [table-search-trends.md](https://github.com/GoogleCloudPlatform/covid-19-open-data/blob/main/docs/table-search-trends.md)
+	- [health](https://github.com/GoogleCloudPlatform/covid-19-open-data/blob/main/docs/table-health.md)
 		- deaths 或者重症中 基础病的概率
 	-
 - analysis
