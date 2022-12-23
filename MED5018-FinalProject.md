@@ -2,7 +2,7 @@
 - compare different nations?
 - time
 -
-- ### Direction 1: 疫苗 vs new cases & new deaths
+- ### [Direction 1: 疫苗 vs new cases & new deaths](https://github.com/Ally-Vella/MED5018-project/tree/master/code/direction1)
 	- @ZhengLihao1004
 	- hospitalize 收治 上呼吸机 （候选
 - aim
@@ -23,7 +23,7 @@
 - visualization
 -
 -
-- ### Direction 2: other social factors v.s. new cases/deaths
+- ### [Direction 2: other social factors v.s. new cases/deaths](https://github.com/Ally-Vella/MED5018-project/tree/master/code/direction2)
 	- @sywrq
 - aim
 	- relations
@@ -42,7 +42,7 @@
 -
 - heatmap？
 -
-- ### Direction 3: clustering
+- ### [Direction 3: clustering](https://github.com/Ally-Vella/MED5018-project/tree/master/code/direction3)
 	- @Bi Wei
 - aim
 	- all possible factors to be clustered
