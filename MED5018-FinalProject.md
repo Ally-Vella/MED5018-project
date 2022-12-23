@@ -19,6 +19,7 @@
 	- correlations
 	- distribution
 		- 如果有疫苗接种数量随时间的数据 -> 疫苗接种的 和 生病的
+	- 接种率高于 xx% v.s. 接种率低于 yy% 时，cases & deaths （对不同疫苗）
 - visualization
 -
 -
@@ -31,6 +32,7 @@
 	- sex
 	- age
 	- economy -> deaths/cases
+	- 搜索指数
 	- health
 		- deaths 或者重症中 基础病的概率
 	-
