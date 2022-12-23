@@ -1,4 +1,4 @@
-# MED5018-project
+# MED5018-project of Group 6
 
 The project is divided into three parts, with details shown in [doc](./MED5018-FinalProject.md)
 
