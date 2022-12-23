@@ -10,6 +10,7 @@
 	- [age](https://github.com/GoogleCloudPlatform/covid-19-open-data/blob/main/docs/table-by-age.md)
 	- [economy](https://github.com/GoogleCloudPlatform/covid-19-open-data/blob/main/docs/table-economy.md) -> deaths/cases
 	- [table-search-trends.md](https://github.com/GoogleCloudPlatform/covid-19-open-data/blob/main/docs/table-search-trends.md)
+		- [interact chart](https://pair-code.github.io/covid19_symptom_dataset/?country=AU)
 	- [health](https://github.com/GoogleCloudPlatform/covid-19-open-data/blob/main/docs/table-health.md)
 		- deaths 或者重症中 基础病的概率
 	-
