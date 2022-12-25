@@ -47,9 +47,11 @@
 	- @Bi Wei
 - aim
 	- all possible factors to be clustered
-	- exclude cases and deaths
 - data input
 - analysis
+	- 所有factors输入，PCA
+	- cluster
+	- 取一个簇做direction 2的分析？
 - visualization
 -
 -
