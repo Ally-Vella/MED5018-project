@@ -30,11 +30,11 @@
 ---
 - sex 使用最新数据（可选数据：国家 y轴：cumulative confirmed, cumulative deceased, deceased rate
 	- 死亡率
-		- ![image.png](assets/image_1672253810814_0.png)
-		- ![image.png](assets/image_1672253814755_0.png)
-		- ![image.png](assets/image_1672253818413_0.png)
-		- ![image.png](assets/image_1672253822521_0.png)
-		- ![image.png](assets/image_1672253847993_0.png)
+		- ![image.png](assets/Argentina_sex_rate.png)
+		- ![image.png](assets/Colombia_sex_rate.png)
+		- ![image.png](assets/Spain_sex_rate.png)
+		- ![image.png](assets/Peru_sex_rate.png)
+		- ![image.png](assets/Mexico_sex_rate.png)
 			- 在有数据的国家中，除了墨西哥，男性死亡率均高于女性
 	- 确诊数
 		- ![image.png](assets/%E5%9B%BE%E7%89%872.png)
@@ -47,13 +47,13 @@
 ----
 - age
 	- 选出一些国家，不同年龄段确诊数量
-		- ![image.png](assets/image_1672253896038_0.png)
+		- ![image.png](assets/age_original.png)
 			-
 	- 使用最新数据 可选数据：国家 y轴：cumulative confirmed, cumulative deceased, deceased rate
-		- ![image.png](assets/image_1672253930362_0.png)
-		- ![image.png](assets/image_1672253936337_0.png)
-		- ![image.png](assets/image_1672253940005_0.png)
-		- ![image.png](assets/image_1672253944597_0.png)
+		- ![image.png](assets/AR_age_confirmed.png)
+		- ![image.png](assets/AR_age_deceased.png)
+		- ![image.png](assets/HK_age_confirmed.png)
+		- ![image.png](assets/HK_age_deceased.png)
 		- ![image.png](assets/image_1672254177266_0.png)
 		- ![image.png](assets/image_1672254182047_0.png)
 			- Mortality increase sharply when aging
