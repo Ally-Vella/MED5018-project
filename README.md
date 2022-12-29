@@ -5,7 +5,7 @@ This respository is for the final group project of the course MED5018, SUSTECH. 
 The results are summarized briefly in the [document](doc/Summary.md).
 
 
-## Instructions
+## Instructions for group members
 - Please download data into the `data/` folder (in local and don't submit them) and save figures into the `assets/` folder
 - Save the code in corresponding folders, i.e. `code/direction1`, `code/direction2` or `code/direction3`
 - If meet some problem when using git or github, check [using-github-tutorial](doc/using-github-tutorial.md) or refer to [Github official document](https://docs.github.com/zh/get-started/quickstart).
