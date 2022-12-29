@@ -1,1 +1,1 @@
-Here I rewrite the code from CHEN Ruiqi (age,economy,health .ipynb) to contains all possible countries to be plotted.
+Here I rewrite the code from Ruiqi (age,economy,health .ipynb) to contains all possible countries to be plotted.
