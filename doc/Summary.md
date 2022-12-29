@@ -3,7 +3,6 @@
 		- ![image.png](../assets/image_1672252450723_0.png)
 		- ![image.png](../assets/image_1672252457075_0.png)
 		- ![image.png](../assets/image_1672252461433_0.png)
-		- ![image.png](../assets/image_1672252466087_0.png)
 			- 相当一部分国家都在21年2-5月出现接种的第一个峰值
 			- 两条曲线未发现明显相关性
 	- 国家对于疫苗随着时间的新增接种情况, 可选国家及["new_persons_vaccinated","new_persons_fully_vaccinated","new_vaccine_doses_administered"]
