@@ -37,11 +37,11 @@
 		- ![image.png](assets/Mexico_sex_rate.png)
 			- 在有数据的国家中，除了墨西哥，男性死亡率均高于女性
 	- 确诊数
-		- ![image.png](assets/%E5%9B%BE%E7%89%872.png)
-		- ![image.png](assets/%E5%9B%BE%E7%89%873.png)
-		- ![image.png](assets/%E5%9B%BE%E7%89%874.png)
-		- ![image.png](assets/%E5%9B%BE%E7%89%875.png)
-		- ![image.png](assets/%E5%9B%BE%E7%89%876.png)
+		- ![image.png](assets/CO_sex_confirmed.png)
+		- ![image.png](assets/ES_sex_confirmed.png)
+		- ![image.png](assets/MX_sex_confirmed.png)
+		- ![image.png](assets/PH_sex_confirmed.png)
+		- ![image.png](assets/US_sex_confirmed.png)
 			- 有数据的大部分国家中，男女确诊数相差不大。且除去墨西哥及菲律宾，皆为女性确诊数大于男性
 
 ----
@@ -71,6 +71,11 @@
 		- ![image.png](assets/image_1672254894495_0.png)
 	- 均未见显著相关性
 ---
+- from WEI Bi
+	- ![image](assets/health-medical.png)
+	- ![image](assets/health-all.png)
+		- 簇内未见明显pattern
+		-
 - clustering
 	- 输入：预期寿命，吸烟率，糖尿病患病率，人均gdp，第一针疫苗接种人数（每100人）
 	- 进行pca降维，与聚类
