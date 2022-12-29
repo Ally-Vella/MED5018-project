@@ -1,4 +1,4 @@
-Data gotten from https://github.com/GoogleCloudPlatform/covid-19-open-data.git
+Data is gotten from https://github.com/GoogleCloudPlatform/covid-19-open-data.git
 
 LINKS of unattached files:
 - https://storage.googleapis.com/covid19-open-data/v3/by-sex.csv
