@@ -1,6 +1,6 @@
 # MED5018-project of Group 6
 
-This respository is for the final group project of the course MED5018, SUSTECH. We tried to analyze the data of [COVID-19](https://github.com/GoogleCloudPlatform/covid-19-open-data/) from various aspects, including vaccinations, relations of some factors (i.e. sex, age, economy, smoking prevalence, diabetes prevalence) to mortality/new_confirmed/new_deceased, and clustering of another set of factors for possible commonality. 
+This respository is for the final group project of the course MED5018, SUSTech. We tried to analyze the data of [COVID-19](https://github.com/GoogleCloudPlatform/covid-19-open-data/) from various aspects, including vaccinations, relations of some factors (i.e. sex, age, economy, smoking prevalence, diabetes prevalence) to mortality/new_confirmed/new_deceased, and clustering of another set of factors for possible commonality. 
 
 The results are summarized briefly in the [document](doc/Summary.md).
 
