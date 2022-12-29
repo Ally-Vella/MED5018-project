@@ -1,0 +1,1 @@
+Here vaccinations.ipynb generate the most figures related to vaccinations; vaccinations-v2 is specifically for the scatter plot of newest cumulative mortality v.s. the number of persons vaccinated more than one dose (per 100).
